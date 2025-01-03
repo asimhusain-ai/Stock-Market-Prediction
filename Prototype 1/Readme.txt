@@ -7,4 +7,4 @@ Step 2- Install required python library
 	# pip install -r requirements.txt
 
 Step 3- Then run main python file.
-	# streamlit run Future.py
+	# streamlit run app.py
